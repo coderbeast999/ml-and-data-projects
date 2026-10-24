@@ -1,4 +1,3 @@
-# ml-and-data-projects
 # ML and Data Projects
 
 Projects I built during the Girls Who Code Data Science and Machine Learning courses (July to August 2026). I used Python, pandas, matplotlib and scikit-learn.
